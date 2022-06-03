@@ -12,6 +12,14 @@ Diagrama
 :-------------------------:|
 ![Screeshot](./images/one-for-all.png)  |
 
+---
+
+## Demo
+
+![Demo](images/video.gif)
+
+---
+
 ## Instalação do projeto localmente:
  
 Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _annagarcia@id.uff.br_ 

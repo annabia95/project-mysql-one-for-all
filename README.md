@@ -10,7 +10,7 @@ de normalização e execução de queries com o intuito de encontrar as informa�
 
 Diagrama       
 :-------------------------:|
-![Screeshot](./img/one-for-all.png)  |
+![Screeshot](./images/one-for-all.png)  |
 
 ## Instalação do projeto localmente:
  

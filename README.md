@@ -1,11 +1,16 @@
 
 Este projeto contém os requisitos realizados por _[Anna Beatriz Garcia Trajano de Sá](www.linkedin.com/in/anna-beatriz-trajano-de-sá)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
-# Project MySQL  - One For All (SpotifyClone)
+# Project MySQL  - One For All
 
 Neste projeto utilizei uma tabela inspirada no Banco de Dados do Spotify (SpotifyClone) para revisar e e consolidar conceitos 
 de normalização e execução de queries com o intuito de encontrar as informações solicitadas.
 
+## Diagrama do Banco de Dados SpotifyClone
+
+Diagrama       
+:-------------------------:|
+![Screeshot](./img/one-for-all.png)  |
 
 ## Instalação do projeto localmente:
  
